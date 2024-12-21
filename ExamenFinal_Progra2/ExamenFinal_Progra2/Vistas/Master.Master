@@ -1,0 +1,30 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Master.Master.cs" Inherits="ExamenFinal_Progra2.Vistas.Site1" %>
+
+<!DOCTYPE html>
+<html>
+
+<head runat="server">
+    <link href="../CSS/Menu.css" rel="stylesheet" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>Sistema de Gestión</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <ul>
+                    <li><a class="active" href="Home.aspx">Home</a></li>
+                    <li><a href="Empleados.aspx">Empleados</a></li>
+                    <li><a href="Proyectos.aspx">Proyectos</a></li>
+            </ul>
+        </div>
+
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>
+

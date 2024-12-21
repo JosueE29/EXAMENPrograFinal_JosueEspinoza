@@ -1,0 +1,376 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Zuper\\OneDrive\\Documentos\\ExamenFinal_Progra2\\ExamenFinal_Progra2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF8ADEC2-DA5F-4E0B-9790-DEDE53E7AB38}|ExamenFinal_Progra2\\ExamenFinal_Progra2.csproj|c:\\users\\zuper\\onedrive\\documentos\\examenfinal_progra2\\examenfinal_progra2\\examenfinal_progra2\\vistas\\master.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{CF8ADEC2-DA5F-4E0B-9790-DEDE53E7AB38}|ExamenFinal_Progra2\\ExamenFinal_Progra2.csproj|solutionrelative:examenfinal_progra2\\vistas\\master.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF8ADEC2-DA5F-4E0B-9790-DEDE53E7AB38}|ExamenFinal_Progra2\\ExamenFinal_Progra2.csproj|c:\\users\\zuper\\onedrive\\documentos\\examenfinal_progra2\\examenfinal_progra2\\examenfinal_progra2\\vistas\\empleados.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CF8ADEC2-DA5F-4E0B-9790-DEDE53E7AB38}|ExamenFinal_Progra2\\ExamenFinal_Progra2.csproj|solutionrelative:examenfinal_progra2\\vistas\\empleados.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF8ADEC2-DA5F-4E0B-9790-DEDE53E7AB38}|ExamenFinal_Progra2\\ExamenFinal_Progra2.csproj|c:\\users\\zuper\\onedrive\\documentos\\examenfinal_progra2\\examenfinal_progra2\\examenfinal_progra2\\vistas\\empleados.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF8ADEC2-DA5F-4E0B-9790-DEDE53E7AB38}|ExamenFinal_Progra2\\ExamenFinal_Progra2.csproj|solutionrelative:examenfinal_progra2\\vistas\\empleados.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF8ADEC2-DA5F-4E0B-9790-DEDE53E7AB38}|ExamenFinal_Progra2\\ExamenFinal_Progra2.csproj|c:\\users\\zuper\\onedrive\\documentos\\examenfinal_progra2\\examenfinal_progra2\\examenfinal_progra2\\css\\menu.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{CF8ADEC2-DA5F-4E0B-9790-DEDE53E7AB38}|ExamenFinal_Progra2\\ExamenFinal_Progra2.csproj|solutionrelative:examenfinal_progra2\\css\\menu.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF8ADEC2-DA5F-4E0B-9790-DEDE53E7AB38}|ExamenFinal_Progra2\\ExamenFinal_Progra2.csproj|c:\\users\\zuper\\onedrive\\documentos\\examenfinal_progra2\\examenfinal_progra2\\examenfinal_progra2\\logica\\dbconn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF8ADEC2-DA5F-4E0B-9790-DEDE53E7AB38}|ExamenFinal_Progra2\\ExamenFinal_Progra2.csproj|solutionrelative:examenfinal_progra2\\logica\\dbconn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF8ADEC2-DA5F-4E0B-9790-DEDE53E7AB38}|ExamenFinal_Progra2\\ExamenFinal_Progra2.csproj|c:\\users\\zuper\\onedrive\\documentos\\examenfinal_progra2\\examenfinal_progra2\\examenfinal_progra2\\logica\\empleadoslogica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF8ADEC2-DA5F-4E0B-9790-DEDE53E7AB38}|ExamenFinal_Progra2\\ExamenFinal_Progra2.csproj|solutionrelative:examenfinal_progra2\\logica\\empleadoslogica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF8ADEC2-DA5F-4E0B-9790-DEDE53E7AB38}|ExamenFinal_Progra2\\ExamenFinal_Progra2.csproj|c:\\users\\zuper\\onedrive\\documentos\\examenfinal_progra2\\examenfinal_progra2\\examenfinal_progra2\\logica\\proyectos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF8ADEC2-DA5F-4E0B-9790-DEDE53E7AB38}|ExamenFinal_Progra2\\ExamenFinal_Progra2.csproj|solutionrelative:examenfinal_progra2\\logica\\proyectos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF8ADEC2-DA5F-4E0B-9790-DEDE53E7AB38}|ExamenFinal_Progra2\\ExamenFinal_Progra2.csproj|c:\\users\\zuper\\onedrive\\documentos\\examenfinal_progra2\\examenfinal_progra2\\examenfinal_progra2\\modelo\\empleadoscls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF8ADEC2-DA5F-4E0B-9790-DEDE53E7AB38}|ExamenFinal_Progra2\\ExamenFinal_Progra2.csproj|solutionrelative:examenfinal_progra2\\modelo\\empleadoscls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF8ADEC2-DA5F-4E0B-9790-DEDE53E7AB38}|ExamenFinal_Progra2\\ExamenFinal_Progra2.csproj|c:\\users\\zuper\\onedrive\\documentos\\examenfinal_progra2\\examenfinal_progra2\\examenfinal_progra2\\modelo\\proyectoscls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF8ADEC2-DA5F-4E0B-9790-DEDE53E7AB38}|ExamenFinal_Progra2\\ExamenFinal_Progra2.csproj|solutionrelative:examenfinal_progra2\\modelo\\proyectoscls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF8ADEC2-DA5F-4E0B-9790-DEDE53E7AB38}|ExamenFinal_Progra2\\ExamenFinal_Progra2.csproj|c:\\users\\zuper\\onedrive\\documentos\\examenfinal_progra2\\examenfinal_progra2\\examenfinal_progra2\\vistas\\empleados.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF8ADEC2-DA5F-4E0B-9790-DEDE53E7AB38}|ExamenFinal_Progra2\\ExamenFinal_Progra2.csproj|solutionrelative:examenfinal_progra2\\vistas\\empleados.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF8ADEC2-DA5F-4E0B-9790-DEDE53E7AB38}|ExamenFinal_Progra2\\ExamenFinal_Progra2.csproj|c:\\users\\zuper\\onedrive\\documentos\\examenfinal_progra2\\examenfinal_progra2\\examenfinal_progra2\\vistas\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CF8ADEC2-DA5F-4E0B-9790-DEDE53E7AB38}|ExamenFinal_Progra2\\ExamenFinal_Progra2.csproj|solutionrelative:examenfinal_progra2\\vistas\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF8ADEC2-DA5F-4E0B-9790-DEDE53E7AB38}|ExamenFinal_Progra2\\ExamenFinal_Progra2.csproj|c:\\users\\zuper\\onedrive\\documentos\\examenfinal_progra2\\examenfinal_progra2\\examenfinal_progra2\\vistas\\proyectos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF8ADEC2-DA5F-4E0B-9790-DEDE53E7AB38}|ExamenFinal_Progra2\\ExamenFinal_Progra2.csproj|solutionrelative:examenfinal_progra2\\vistas\\proyectos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF8ADEC2-DA5F-4E0B-9790-DEDE53E7AB38}|ExamenFinal_Progra2\\ExamenFinal_Progra2.csproj|c:\\users\\zuper\\onedrive\\documentos\\examenfinal_progra2\\examenfinal_progra2\\examenfinal_progra2\\vistas\\proyectos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CF8ADEC2-DA5F-4E0B-9790-DEDE53E7AB38}|ExamenFinal_Progra2\\ExamenFinal_Progra2.csproj|solutionrelative:examenfinal_progra2\\vistas\\proyectos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF8ADEC2-DA5F-4E0B-9790-DEDE53E7AB38}|ExamenFinal_Progra2\\ExamenFinal_Progra2.csproj|c:\\users\\zuper\\onedrive\\documentos\\examenfinal_progra2\\examenfinal_progra2\\examenfinal_progra2\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{CF8ADEC2-DA5F-4E0B-9790-DEDE53E7AB38}|ExamenFinal_Progra2\\ExamenFinal_Progra2.csproj|solutionrelative:examenfinal_progra2\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 33,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:16:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:18:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:19:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:20:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{809f6ff3-8092-454a-8003-6d4091f9b5bb}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProyectosCLS.cs",
+              "DocumentMoniker": "C:\\Users\\Zuper\\OneDrive\\Documentos\\ExamenFinal_Progra2\\ExamenFinal_Progra2\\ExamenFinal_Progra2\\Modelo\\ProyectosCLS.cs",
+              "RelativeDocumentMoniker": "ExamenFinal_Progra2\\Modelo\\ProyectosCLS.cs",
+              "ToolTip": "C:\\Users\\Zuper\\OneDrive\\Documentos\\ExamenFinal_Progra2\\ExamenFinal_Progra2\\ExamenFinal_Progra2\\Modelo\\ProyectosCLS.cs",
+              "RelativeToolTip": "ExamenFinal_Progra2\\Modelo\\ProyectosCLS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T03:29:00.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmpleadosLogica.cs",
+              "DocumentMoniker": "C:\\Users\\Zuper\\OneDrive\\Documentos\\ExamenFinal_Progra2\\ExamenFinal_Progra2\\ExamenFinal_Progra2\\Logica\\EmpleadosLogica.cs",
+              "RelativeDocumentMoniker": "ExamenFinal_Progra2\\Logica\\EmpleadosLogica.cs",
+              "ToolTip": "C:\\Users\\Zuper\\OneDrive\\Documentos\\ExamenFinal_Progra2\\ExamenFinal_Progra2\\ExamenFinal_Progra2\\Logica\\EmpleadosLogica.cs",
+              "RelativeToolTip": "ExamenFinal_Progra2\\Logica\\EmpleadosLogica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T02:45:17.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmpleadosCLS.cs",
+              "DocumentMoniker": "C:\\Users\\Zuper\\OneDrive\\Documentos\\ExamenFinal_Progra2\\ExamenFinal_Progra2\\ExamenFinal_Progra2\\Modelo\\EmpleadosCLS.cs",
+              "RelativeDocumentMoniker": "ExamenFinal_Progra2\\Modelo\\EmpleadosCLS.cs",
+              "ToolTip": "C:\\Users\\Zuper\\OneDrive\\Documentos\\ExamenFinal_Progra2\\ExamenFinal_Progra2\\ExamenFinal_Progra2\\Modelo\\EmpleadosCLS.cs",
+              "RelativeToolTip": "ExamenFinal_Progra2\\Modelo\\EmpleadosCLS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T02:33:40.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Proyectos.cs",
+              "DocumentMoniker": "C:\\Users\\Zuper\\OneDrive\\Documentos\\ExamenFinal_Progra2\\ExamenFinal_Progra2\\ExamenFinal_Progra2\\Logica\\Proyectos.cs",
+              "RelativeDocumentMoniker": "ExamenFinal_Progra2\\Logica\\Proyectos.cs",
+              "ToolTip": "C:\\Users\\Zuper\\OneDrive\\Documentos\\ExamenFinal_Progra2\\ExamenFinal_Progra2\\ExamenFinal_Progra2\\Logica\\Proyectos.cs",
+              "RelativeToolTip": "ExamenFinal_Progra2\\Logica\\Proyectos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T03:40:54.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DBconn.cs",
+              "DocumentMoniker": "C:\\Users\\Zuper\\OneDrive\\Documentos\\ExamenFinal_Progra2\\ExamenFinal_Progra2\\ExamenFinal_Progra2\\Logica\\DBconn.cs",
+              "RelativeDocumentMoniker": "ExamenFinal_Progra2\\Logica\\DBconn.cs",
+              "ToolTip": "C:\\Users\\Zuper\\OneDrive\\Documentos\\ExamenFinal_Progra2\\ExamenFinal_Progra2\\ExamenFinal_Progra2\\Logica\\DBconn.cs",
+              "RelativeToolTip": "ExamenFinal_Progra2\\Logica\\DBconn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T02:17:32.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Menu.css",
+              "DocumentMoniker": "C:\\Users\\Zuper\\OneDrive\\Documentos\\ExamenFinal_Progra2\\ExamenFinal_Progra2\\ExamenFinal_Progra2\\CSS\\Menu.css",
+              "RelativeDocumentMoniker": "ExamenFinal_Progra2\\CSS\\Menu.css",
+              "ToolTip": "C:\\Users\\Zuper\\OneDrive\\Documentos\\ExamenFinal_Progra2\\ExamenFinal_Progra2\\ExamenFinal_Progra2\\CSS\\Menu.css",
+              "RelativeToolTip": "ExamenFinal_Progra2\\CSS\\Menu.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-21T02:16:14.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Empleados.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\Zuper\\OneDrive\\Documentos\\ExamenFinal_Progra2\\ExamenFinal_Progra2\\ExamenFinal_Progra2\\Vistas\\Empleados.aspx.designer.cs",
+              "RelativeDocumentMoniker": "ExamenFinal_Progra2\\Vistas\\Empleados.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\Zuper\\OneDrive\\Documentos\\ExamenFinal_Progra2\\ExamenFinal_Progra2\\ExamenFinal_Progra2\\Vistas\\Empleados.aspx.designer.cs",
+              "RelativeToolTip": "ExamenFinal_Progra2\\Vistas\\Empleados.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T02:52:10.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Empleados.aspx",
+              "DocumentMoniker": "C:\\Users\\Zuper\\OneDrive\\Documentos\\ExamenFinal_Progra2\\ExamenFinal_Progra2\\ExamenFinal_Progra2\\Vistas\\Empleados.aspx",
+              "RelativeDocumentMoniker": "ExamenFinal_Progra2\\Vistas\\Empleados.aspx",
+              "ToolTip": "C:\\Users\\Zuper\\OneDrive\\Documentos\\ExamenFinal_Progra2\\ExamenFinal_Progra2\\ExamenFinal_Progra2\\Vistas\\Empleados.aspx",
+              "RelativeToolTip": "ExamenFinal_Progra2\\Vistas\\Empleados.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-21T02:24:22.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Master.Master",
+              "DocumentMoniker": "C:\\Users\\Zuper\\OneDrive\\Documentos\\ExamenFinal_Progra2\\ExamenFinal_Progra2\\ExamenFinal_Progra2\\Vistas\\Master.Master",
+              "RelativeDocumentMoniker": "ExamenFinal_Progra2\\Vistas\\Master.Master",
+              "ToolTip": "C:\\Users\\Zuper\\OneDrive\\Documentos\\ExamenFinal_Progra2\\ExamenFinal_Progra2\\ExamenFinal_Progra2\\Vistas\\Master.Master",
+              "RelativeToolTip": "ExamenFinal_Progra2\\Vistas\\Master.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-21T02:18:31.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Empleados.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Zuper\\OneDrive\\Documentos\\ExamenFinal_Progra2\\ExamenFinal_Progra2\\ExamenFinal_Progra2\\Vistas\\Empleados.aspx.cs",
+              "RelativeDocumentMoniker": "ExamenFinal_Progra2\\Vistas\\Empleados.aspx.cs",
+              "ToolTip": "C:\\Users\\Zuper\\OneDrive\\Documentos\\ExamenFinal_Progra2\\ExamenFinal_Progra2\\ExamenFinal_Progra2\\Vistas\\Empleados.aspx.cs",
+              "RelativeToolTip": "ExamenFinal_Progra2\\Vistas\\Empleados.aspx.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAIwA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T02:44:14.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Home.aspx",
+              "DocumentMoniker": "C:\\Users\\Zuper\\OneDrive\\Documentos\\ExamenFinal_Progra2\\ExamenFinal_Progra2\\ExamenFinal_Progra2\\Vistas\\Home.aspx",
+              "RelativeDocumentMoniker": "ExamenFinal_Progra2\\Vistas\\Home.aspx",
+              "ToolTip": "C:\\Users\\Zuper\\OneDrive\\Documentos\\ExamenFinal_Progra2\\ExamenFinal_Progra2\\ExamenFinal_Progra2\\Vistas\\Home.aspx",
+              "RelativeToolTip": "ExamenFinal_Progra2\\Vistas\\Home.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-21T02:36:53.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Proyectos.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Zuper\\OneDrive\\Documentos\\ExamenFinal_Progra2\\ExamenFinal_Progra2\\ExamenFinal_Progra2\\Vistas\\Proyectos.aspx.cs",
+              "RelativeDocumentMoniker": "ExamenFinal_Progra2\\Vistas\\Proyectos.aspx.cs",
+              "ToolTip": "C:\\Users\\Zuper\\OneDrive\\Documentos\\ExamenFinal_Progra2\\ExamenFinal_Progra2\\ExamenFinal_Progra2\\Vistas\\Proyectos.aspx.cs",
+              "RelativeToolTip": "ExamenFinal_Progra2\\Vistas\\Proyectos.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T03:49:44.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Proyectos.aspx",
+              "DocumentMoniker": "C:\\Users\\Zuper\\OneDrive\\Documentos\\ExamenFinal_Progra2\\ExamenFinal_Progra2\\ExamenFinal_Progra2\\Vistas\\Proyectos.aspx",
+              "RelativeDocumentMoniker": "ExamenFinal_Progra2\\Vistas\\Proyectos.aspx",
+              "ToolTip": "C:\\Users\\Zuper\\OneDrive\\Documentos\\ExamenFinal_Progra2\\ExamenFinal_Progra2\\ExamenFinal_Progra2\\Vistas\\Proyectos.aspx",
+              "RelativeToolTip": "ExamenFinal_Progra2\\Vistas\\Proyectos.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-21T03:31:38.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Zuper\\OneDrive\\Documentos\\ExamenFinal_Progra2\\ExamenFinal_Progra2\\ExamenFinal_Progra2\\Web.config",
+              "RelativeDocumentMoniker": "ExamenFinal_Progra2\\Web.config",
+              "ToolTip": "C:\\Users\\Zuper\\OneDrive\\Documentos\\ExamenFinal_Progra2\\ExamenFinal_Progra2\\ExamenFinal_Progra2\\Web.config",
+              "RelativeToolTip": "ExamenFinal_Progra2\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-21T02:14:49.235Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{de1fc918-f32e-4dd7-a915-1792a051f26b}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
